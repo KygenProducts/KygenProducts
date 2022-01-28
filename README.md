@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ehan</h1>
+<h1 align="center">Hi 👋, I'm Ehan </h1>
 <h3 align="center">A Hacker, Student, And Programmer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dadevguy" alt="dadevguy" /></a> </p>
@@ -10,8 +10,6 @@
 - 👯 I’m looking to collaborate on **Discord-JS**
 
 - 🤝 I’m looking for help with **PocketMine-MP**
-
-- 💬 Ask me about **Anything**
 
 - 📫 My Discord Account **RealMeow#0001**
 
