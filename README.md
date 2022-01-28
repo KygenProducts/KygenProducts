@@ -1,4 +1,4 @@
-### Hi there, I'm Ehan - aka [RealMeow][website] 👋 
+### Hi there, I'm Ehan - aka [Technical Ehan][website] 👋 
 
 
 ## I'm a Hacker, Developer, and Student!!
