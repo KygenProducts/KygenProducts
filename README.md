@@ -1,9 +1,9 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm DaDevGuy</h1>
 <h3 align="center">A Full - Stack Developer From Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dadevguy&label=Profile%20views&color=0e75b6&style=flat" alt="dadevguy" /> </p>
-
-<p align="left"> <a href="https://twitter.com/dadevguy_" target="blank"><img src="https://img.shields.io/twitter/follow/dadevguy_?logo=twitter&style=for-the-badge" alt="dadevguy_" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **PocketMine-MP**
 
@@ -31,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dadevguy&show_icons=true&locale=en" alt="dadevguy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dadevguy&" alt="dadevguy" /></p>
+
