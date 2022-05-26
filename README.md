@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://dadevguy.tk)
+<img align="" alt="GIF" src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" />
 <h1 align="center">Hi 👋, I'm DaDevGuy</h1>
 <h3 align="center">A Self Taught Developer.</h3>
 
