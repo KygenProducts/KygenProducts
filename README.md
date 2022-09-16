@@ -10,9 +10,7 @@
 
 - 👯 I’m looking to collaborate on **DiscordJS**
 
-- 🤝 I’m looking for help with **express**
-
-- 📫 How to reach me **Reach Me On Discord `~ RealMeow#0001`**
+- 📫 How to reach me? **Reach Me On Discord `~ RealMeow#0001`**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
