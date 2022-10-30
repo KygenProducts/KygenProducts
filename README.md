@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **PocketMine-MP**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Some JavaScript's Frameworks*
 
-- 👯 I’m looking to collaborate on **DiscordJS**
+- 👯 I’m looking to collaborate on **PocketMine-MP**
 
-- 📫 How to reach me? **Reach Me On Discord `~ RealMeow#0001`**
+- 📫 How to reach me? **Reach Me On Discord ` ' ' RealMeow#0001`**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
