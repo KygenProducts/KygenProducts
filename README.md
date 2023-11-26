@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **PocketMine-MP**
 
-- 📫 How to reach me? **Reach Me On Discord `MeoW#0001`**
+- 📫 How to reach me? **Mail `ehan1@mail.com`**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
