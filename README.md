@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **PocketMine-MP**
 
-- 🌱 I’m currently learning **Some JavaScript's Frameworks*
+- 🌱 I’m currently learning **Some JavaScript's Frameworks**
 
 - 👯 I’m looking to collaborate on **PocketMine-MP**
 
