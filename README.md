@@ -1,4 +1,3 @@
-<img align="" alt="GIF" src="https://www.sololearn.com/certificates/course/en/26954431/1059/landscape/png" />
 <h1 align="center">Hi 👋, I'm DaDevGuy</h1>
 <h3 align="center">A Self Taught Developer.</h3>
 
