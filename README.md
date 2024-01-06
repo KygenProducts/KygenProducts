@@ -2,12 +2,6 @@
 <h3 align="center">A Self Taught Developer.</h3>
 
 
-- 🔭 I’m currently working on **PocketMine-MP**
-
-- 🌱 I’m currently learning **Some JavaScript's Frameworks**
-
-- 👯 I’m looking to collaborate on **PocketMine-MP**
-
 - 📫 How to reach me? **Mail `ehan1@mail.com`**
 
 <h3 align="left">Languages and Tools:</h3>
